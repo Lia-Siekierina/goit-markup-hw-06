@@ -155,7 +155,7 @@
   border-radius: 0 0 4px 4px;
 }
 
-.section-title {
+/* .section-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -164,7 +164,7 @@
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
-}
+} */
 
 .team-list {
   background-color: #f4f4fd;
