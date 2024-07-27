@@ -876,6 +876,7 @@ button {
 @media screen and (min-width: 768px) {
   .input-footer {
     width: 264px;
+    margin-bottom: 0;
   }
   .footer-soc-media {
     display: flex;
