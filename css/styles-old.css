@@ -234,9 +234,6 @@
 
 /*---Portfolio---*/
 
-.section-title {
-  /* margin-bottom: 72px; */
-}
 
 .portfolio-list {
   display: flex;
@@ -285,25 +282,25 @@
 /*---Footer---*/
 
 .section-adress {
-  background-color: #2e2f42;
+  /* background-color: #2e2f42; */
   padding: 100px 0;
 }
 
-.footer-logo {
+/* .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-}
+} */
 
 .footer-nav {
-  display: flex;
-  align-items: baseline;
+  /* display: flex; */
+  /* align-items: baseline; */
 }
 
 .footer-info {
   margin-right: 120px;
 }
 
-.media-list {
+/* .media-list {
   gap: 16px;
 }
 .footer-soc-media {
@@ -318,12 +315,12 @@
   color: #fff;
   margin-bottom: 16px;
   margin-top: 72px;
-}
+} */
 
-.footer-conteiner-media {
+/* .footer-conteiner-media {
   align-items: center;
   justify-content: left;
-}
+} */
 
 /* .subtitle-text-footer {
   font-weight: 400;
@@ -342,10 +339,10 @@
 .footer-link:focus {
   background-color: #31d0aa;
 }
-.subscribe-form {
+/* .subscribe-form {
   display: flex;
   gap: 24px;
-}
+} */
 
 .footer-subscribe {
   margin-left: auto;
