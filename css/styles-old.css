@@ -317,6 +317,7 @@
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
+  margin-top: 72px;
 }
 
 .footer-conteiner-media {
@@ -324,14 +325,14 @@
   justify-content: left;
 }
 
-.subtitle-text-footer {
+/* .subtitle-text-footer {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   width: 264px;
-}
+} */
 
 .footer-link {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -377,14 +378,14 @@
 
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.input-footer::placeholder {
+/* .input-footer::placeholder {
   font-weight: 400;
   font-size: 12px;
   line-height: 2;
   letter-spacing: 0.04em;
   color: #fff;
   margin-left: 16px;
-}
+} */
 
 .input-footer:hover,
 .input-footer:focus {
@@ -417,10 +418,10 @@
   background-color: #31d0aa;
 }
 
-.icon-subscribe-btn {
+/* .icon-subscribe-btn {
   fill: #fff;
   margin-left: 16px;
-}
+} */
 
 /*-----Modal---*/
 
